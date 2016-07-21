@@ -1,0 +1,9 @@
+div{
+	display: flex;
+	transition: all 420ms easy-in-out;
+}
+span{
+	justify-content: space-around;
+		flex-direction: row;
+		background: linear-gradient(to top,#ffffff,#000000);
+}
